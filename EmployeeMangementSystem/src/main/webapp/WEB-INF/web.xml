@@ -1,0 +1,19 @@
+<web-app>
+ <servlet>
+  <servlet-name>Login</servlet-name>
+  <servlet-class>com.ems.servlet.LoginServlet</servlet-class>
+ </servlet>
+ <servlet-mapping>
+  <servlet-name>Login</servlet-name>
+  <url-pattern>/LoginServlet</url-pattern>
+ </servlet-mapping>
+
+ <servlet>
+  <servlet-name>Employee</servlet-name>
+  <servlet-class>com.ems.servlet.EmployeeServlet</servlet-class>
+ </servlet>
+ <servlet-mapping>
+  <servlet-name>Employee</servlet-name>
+  <url-pattern>/EmployeeServlet</url-pattern>
+ </servlet-mapping>
+</web-app>

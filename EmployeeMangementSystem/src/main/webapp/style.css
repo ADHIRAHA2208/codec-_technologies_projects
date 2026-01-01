@@ -1,0 +1,10 @@
+body{
+ background:linear-gradient(to right,#8360c3,#2ebf91);
+ font-family:Arial;
+}
+
+table{
+ width:90%;
+ margin:auto;
+ background:white;
+}
