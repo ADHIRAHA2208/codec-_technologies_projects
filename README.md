@@ -1,6 +1,4 @@
 
-                 **Codec Technologies**
-This repository contains three practical projects developed to demonstrate skills in **Java**, **Database Management**, and **GUI/Web Development**.  
 
 Projects included:  
 1. Library Management System  
